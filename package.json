@@ -1,0 +1,15 @@
+{
+    "name": "com.diegorg64.so-game-events",
+    "version": "1.0.0",
+    "displayName": "Scriptable-Objects Game Events",
+    "description": "A Unity event system using Scriptable Objects",
+    "keywords": [
+        "scriptable-objects",
+        "events"
+    ],
+    "license": "MIT",
+    "author": {
+        "name": "Diego Ruiz Gil",
+        "email": "diegoruiz037@gmail.com"
+    }
+}

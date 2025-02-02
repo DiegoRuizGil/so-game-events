@@ -1,0 +1,16 @@
+{
+    "name": "diegorg64.SOGameEvents.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2e8123ed2ab39b34298559131e542556"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
